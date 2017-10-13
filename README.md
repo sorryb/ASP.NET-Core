@@ -19,3 +19,5 @@ The Dependency Inversion Principle
 
 4. Migration with SQLite
 
+5.Add ASP.NET Identity (users and roles)
+
