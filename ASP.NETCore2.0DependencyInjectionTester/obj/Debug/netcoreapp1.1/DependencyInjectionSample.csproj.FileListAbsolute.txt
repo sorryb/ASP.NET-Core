@@ -1,0 +1,4 @@
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\Core\DependencyInjectionSample\obj\Debug\netcoreapp1.1\DependencyInjectionSample.csprojResolveAssemblyReference.cache
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\Core\DependencyInjectionSample\obj\Debug\netcoreapp1.1\DependencyInjectionSample.csproj.CoreCompileInputs.cache
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\Core\DependencyInjectionSample\obj\Debug\netcoreapp1.1\DependencyInjectionSample.AssemblyInfoInputs.cache
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\Core\DependencyInjectionSample\obj\Debug\netcoreapp1.1\DependencyInjectionSample.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\Core\DependencyInjectionSample\bin\Debug\netcoreapp1.0\DependencyInjectionSample.deps.json
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\Core\DependencyInjectionSample\bin\Debug\netcoreapp1.0\DependencyInjectionSample.runtimeconfig.json
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\Core\DependencyInjectionSample\bin\Debug\netcoreapp1.0\DependencyInjectionSample.runtimeconfig.dev.json
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\Core\DependencyInjectionSample\bin\Debug\netcoreapp1.0\DependencyInjectionSample.dll
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\Core\DependencyInjectionSample\bin\Debug\netcoreapp1.0\DependencyInjectionSample.pdb
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\Core\DependencyInjectionSample\obj\Debug\netcoreapp1.0\DependencyInjectionSample.csprojResolveAssemblyReference.cache
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\Core\DependencyInjectionSample\obj\Debug\netcoreapp1.0\DependencyInjectionSample.csproj.CoreCompileInputs.cache
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\Core\DependencyInjectionSample\obj\Debug\netcoreapp1.0\DependencyInjectionSample.AssemblyInfoInputs.cache
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\Core\DependencyInjectionSample\obj\Debug\netcoreapp1.0\DependencyInjectionSample.AssemblyInfo.cs
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\Core\DependencyInjectionSample\obj\Debug\netcoreapp1.0\DependencyInjectionSample.dll
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\Core\DependencyInjectionSample\obj\Debug\netcoreapp1.0\DependencyInjectionSample.pdb
