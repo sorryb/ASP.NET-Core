@@ -1,0 +1,23 @@
+H:\Test\SQLiteWebApplication\SQLiteWebApplication\bin\Debug\netcoreapp2.0\SQLiteWebApplication.deps.json
+H:\Test\SQLiteWebApplication\SQLiteWebApplication\bin\Debug\netcoreapp2.0\SQLiteWebApplication.runtimeconfig.json
+H:\Test\SQLiteWebApplication\SQLiteWebApplication\bin\Debug\netcoreapp2.0\SQLiteWebApplication.runtimeconfig.dev.json
+H:\Test\SQLiteWebApplication\SQLiteWebApplication\bin\Debug\netcoreapp2.0\SQLiteWebApplication.dll
+H:\Test\SQLiteWebApplication\SQLiteWebApplication\obj\Debug\netcoreapp2.0\SQLiteWebApplication.csproj.CoreCompileInputs.cache
+H:\Test\SQLiteWebApplication\SQLiteWebApplication\obj\Debug\netcoreapp2.0\SQLiteWebApplication.AssemblyInfoInputs.cache
+H:\Test\SQLiteWebApplication\SQLiteWebApplication\obj\Debug\netcoreapp2.0\SQLiteWebApplication.AssemblyInfo.cs
+H:\Test\SQLiteWebApplication\SQLiteWebApplication\bin\Debug\netcoreapp2.0\SQLiteWebApplication.pdb
+H:\Test\SQLiteWebApplication\SQLiteWebApplication\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+H:\Test\SQLiteWebApplication\SQLiteWebApplication\obj\Debug\netcoreapp2.0\SQLiteWebApplication.dll
+H:\Test\SQLiteWebApplication\SQLiteWebApplication\obj\Debug\netcoreapp2.0\SQLiteWebApplication.pdb
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\ASP.NET-Core2.0\SQLiteWebApplication\bin\Debug\netcoreapp2.0\SQLiteWebApplication.deps.json
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\ASP.NET-Core2.0\SQLiteWebApplication\bin\Debug\netcoreapp2.0\SQLiteWebApplication.runtimeconfig.json
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\ASP.NET-Core2.0\SQLiteWebApplication\bin\Debug\netcoreapp2.0\SQLiteWebApplication.runtimeconfig.dev.json
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\ASP.NET-Core2.0\SQLiteWebApplication\bin\Debug\netcoreapp2.0\SQLiteWebApplication.dll
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\ASP.NET-Core2.0\SQLiteWebApplication\bin\Debug\netcoreapp2.0\SQLiteWebApplication.pdb
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\ASP.NET-Core2.0\SQLiteWebApplication\obj\Debug\netcoreapp2.0\SQLiteWebApplication.csprojResolveAssemblyReference.cache
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\ASP.NET-Core2.0\SQLiteWebApplication\obj\Debug\netcoreapp2.0\SQLiteWebApplication.csproj.CoreCompileInputs.cache
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\ASP.NET-Core2.0\SQLiteWebApplication\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\ASP.NET-Core2.0\SQLiteWebApplication\obj\Debug\netcoreapp2.0\SQLiteWebApplication.AssemblyInfoInputs.cache
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\ASP.NET-Core2.0\SQLiteWebApplication\obj\Debug\netcoreapp2.0\SQLiteWebApplication.AssemblyInfo.cs
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\ASP.NET-Core2.0\SQLiteWebApplication\obj\Debug\netcoreapp2.0\SQLiteWebApplication.dll
+H:\Kits\Kit DotNET\Dot NET\ASP.NET\ASP.NET-Core2.0\SQLiteWebApplication\obj\Debug\netcoreapp2.0\SQLiteWebApplication.pdb
