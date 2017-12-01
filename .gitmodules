@@ -1,0 +1,3 @@
+[submodule "Northwind.ASP.NET.Core"]
+	path = Northwind.ASP.NET.Core
+	url = https://github.com/sorryb/ASP.NET-Core/Northwind.ASP.NET.Core
